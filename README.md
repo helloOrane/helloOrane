@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Orane, a front end developer from Belgium. Currently I'm working for Sfeir Belgium in Brussels.
 <!--
 **helloOrane/helloOrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
