@@ -1,5 +1,11 @@
 ### Hi there 👋
-I'm Orane, a front end developer from Belgium. Currently I'm working for Sfeir Belgium in Brussels.
+I'm Orane, a front end developer from Belgium. 
+
+💻 Front-end Developer & AI Integrator
+🖥️ Languages: JavaScript, TypeScript, Python
+🚀 Specialist: React, Next.js, Django, Flask, Numpy, Matplotlib, Scikit-learn, Selenium
+🤖 AI, machine learning & deep learning addict
+🎮 Video games & pop culture enthusiast
 <!--
 **helloOrane/helloOrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
