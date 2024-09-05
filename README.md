@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm Orane, a front end developer from Belgium. 
+### Hello World 👋
+I'm Orane, a front end developer from Belgium 
 
 - 💻 Front-end Developer & AI Integrator
 - 🖥️ Languages: JavaScript, TypeScript, Python
