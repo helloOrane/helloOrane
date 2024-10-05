@@ -1,9 +1,9 @@
 ### Hello World 👋
 I'm Orane, a front end developer from Belgium 
 
-- 💻 Front-end Developer & AI Integrator
+- 💻 Front-end & AI developer
 - 🖥️ Languages: JavaScript, TypeScript, Python
-- 🚀 Specialist: React, Next.js, Django, Flask, Numpy, Matplotlib, Scikit-learn, Selenium
+- 🚀 Specialist: React, Next.js, Django, Flask, Numpy, Matplotlib, Scikit-learn, Pandas, OpenCV
 - 🤖 AI, machine learning & deep learning addict
 - 🎮 Video games & pop culture enthusiast
 <!--
